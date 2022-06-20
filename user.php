@@ -46,7 +46,7 @@ session_start();
                 <div class="logo-header" data-background-color="blue2">
 
                     <a href="index.php">
-                        <img src="assets/img/mts.png" alt="navbar brand" class="navbar-brand" width="40">
+                        <img src="assets/img/logo.jpeg" alt="navbar brand" class="navbar-brand" width="40">
                         <b class="text-white">Presensi Siswa</b>
                     </a>
                 </div>
@@ -123,8 +123,8 @@ session_start();
     <footer class="footer">
         <div class="container">
             <div class="copyright ml-auto">
-                &copy; <?php echo date('Y');?> Absensi Siswa MTs. Insan Kreasi (<a href="index.php">Imas Andriyani </a>
-                | 2021)
+                &copy; <?php echo date('Y');?> Absensi Siswa SMK 1 LOPOK(<a href="index.php">Asti Oktaviani </a>
+                | 2022)
             </div>
         </div>
     </footer>
